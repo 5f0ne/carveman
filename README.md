@@ -21,7 +21,7 @@ File carving for pictures, documents and other files based on it's header an foo
 | Option | Short | Type | Default | Description |
 |---|---|---|---|---|
 |--path | -p | String | - | Path to carving source (dd, raw) |
-|--outdir | -o | String | carveman-result | Path to carving source |
+|--outdir | -o | String | carveman-result | Path to dir where carved files are located |
 
 
 # Example
